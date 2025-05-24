@@ -28,3 +28,4 @@ jobs:
       run: |
         docker build -t ghcr.io/paarmatthias/assignment-3-redis:latest ./redis
         docker push ghcr.io/paarmatthias/assignment-3-redis:latest
+        
